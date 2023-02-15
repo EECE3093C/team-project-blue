@@ -20,11 +20,11 @@ Run NPM install in both the UI and API folder.
 **• Whom is it for?**
 <br/> We specifically designed the application for Students and Tutors at the University of Cincinati to use and get connected with one another.
 **• What problem does it solve?** 
-<br/> Students that are struggling in their classes will be paired with a tutoron campus and are able to chat back and forth
+<br/> Students that are struggling in their classes will be paired with a tutoron campus and are able to chat back and forth.
 **• What alternatives are available, who are your competitors?**
-<br/>Currently, the University of Cincinnati has a tutoring website called TracCloud that matches tutors with students. We plan to create a more robust application where students can get help with anything big or small. We believe anyone can help anyone, students can sign up to be a learner or tutor every time they log on, so this app is for anyone at any level of education.
+<br/>Currently, the University of Cincinnati has a tutoring website called TracCloud that matches tutors with students.
 **• What is novel in your approach, that is why is this project compelling and worth developing?**
-<br/>
+<br/> We plan to create a more robust application where students can get help with anything big or small. We believe anyone can help anyone, students can sign up to be a learner or tutor every time they log on, so this app is for anyone at any level of education.
 
 
 
@@ -35,7 +35,7 @@ Run NPM install in both the UI and API folder.
 **• Describe at a very high level the system's architecture, identifying the components/modules that will interact.**
 <br/>
 **• Describe the specific data you will access/store.**
-<br/>
+<br/> The data that we need to access/store will be student and tutor information (Student/Tutor name, Student/Tutor role, chats between Tutor and helper).
 **• What language**
 <br/>HTML, CSS, Javascript, typecript, angular and node.js
 
