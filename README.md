@@ -36,7 +36,7 @@ Run NPM install in both the UI and API folder.
 <br/>
 **• Describe the specific data you will access/store.**
 <br/> The data that we need to access/store will be student and tutor information (Student/Tutor name, Student/Tutor role, chats between Tutor and helper).
-**• What language**
+**• What languages are being used?**
 <br/>HTML, CSS, Javascript, typecript, angular and node.js
 
 # Challenges and Risks
