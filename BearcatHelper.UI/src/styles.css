@@ -1,1 +1,82 @@
 /* You can add global styles to this file, and also import other style files */
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0px;
+}
+
+.btn {
+  background-color: #db4545;
+  border: 1px solid #db4545;
+  border-radius: 4px;
+  display: inline-block;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 400;
+  height: 40px;
+  line-height: 40px;
+  letter-spacing: 1px;
+  margin: 5px;
+  overflow: hidden;
+  padding: 0 22px;
+  text-align: center;
+  text-transform: uppercase;
+  backdrop-filter: blur(10px);
+  transition: all 0.2s ease-in-out;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.btn:hover {
+  background-color: transparent;
+  color: #db4545;
+}
+
+.btn:active {
+  background-color: #db4545;
+  color: white;
+}
+
+.btn2 {
+  background-color: #000;
+  border: 1px solid #000;
+  border-radius: 4px;
+  display: inline-block;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 400;
+  height: 40px;
+  line-height: 40px;
+  letter-spacing: 1px;
+  margin: 5px;
+  overflow: hidden;
+  padding: 0 22px;
+  text-align: center;
+  text-transform: uppercase;
+  backdrop-filter: blur(10px);
+  transition: all 0.2s ease-in-out;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.btn2:hover {
+  background-color: transparent;
+  color: black;
+}
+
+.btn2:active {
+  background-color: #000;
+  color: white;
+}
