@@ -43,7 +43,7 @@ This application is a place where students and tutors at the University of Cinci
 
 # Challenges and Risks
 
-<br/>**• What is the single most serious challenge you see in developing the product on schedule?**
+**• What is the single most serious challenge you see in developing the product on schedule?**
 <br/>The most challenging part of this project is that we are new to this kind of web development. This is the first time we are working on a project with this caliber and intricacy. We have to be able to learn and develop code in a constricted timeline.
 <br/>**• How will you minimize or mitigate the risk?**
 <br/>The best way to minimize these risks is to use the Agile and Scrum methodolgies. By using these two methods we will be more efficient by giving group members specific tasks to work on while being on schedule. 
