@@ -16,7 +16,7 @@ Run NPM install in both the UI and API folder.
 ## Vision for the project
 
 **• What is your product (high-level view)?**
-/ This application is a place where students and tutors at the University of Cincinnati can connect. Students will get on the application and select a tutor or learner role - from which the learners are paired with a tutor to help with their work. Often times, students might suddenly need tutoring for a niche class but not know who they can talk to - this application will help students find the right person with the help they need.
+This application is a place where students and tutors at the University of Cincinnati can connect. Students will get on the application and select a tutor or learner role - from which the learners are paired with a tutor to help with their work. Often times, students might suddenly need tutoring for a niche class but not know who they can talk to - this application will help students find the right person with the help they need.
 <br/>**• Whom is it for?**
 <br/> We specifically designed the application for Students and Tutors at the University of Cincinati to use and get connected with one another.
 <br/>**• What problem does it solve?** 
