@@ -1,0 +1,8 @@
+{
+  "development": {
+    "MOGODB_URI": "mongodb+srv://BearcatAdmin:bearcatADMINS382325@bearcathelperdb.ysunimh.mongodb.net/?retryWrites=true&w=majority"
+  },
+  "production": {
+    "MOGODB_URI": "something"
+  }
+}
