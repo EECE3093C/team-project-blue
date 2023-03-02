@@ -3,6 +3,17 @@ body {
     color: white;
 }
 
+.questions {
+    font-size: 35px;
+    position: relative;
+    left: 50px; 
+    top:70px;
+}
+
+.bearcat-logo {
+    position: relative;
+}
+
 .fullcontainer {
     background-color: black;
     width: 100%;
@@ -22,7 +33,7 @@ body {
   height: 100vh;
   background-color: gray;
   width: 60%;
-  background-image: url("");
+  /*background-image: url("https://pbs.twimg.com/profile_images/1161539125981392896/6Ybr3mdG_400x400.jpg");?*/
   background-position: center;
   background-size: cover;
   -webkit-box-shadow: 6px 2px 22px 9px rgba(0, 0, 0, 0.74);
