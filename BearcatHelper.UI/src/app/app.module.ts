@@ -10,6 +10,7 @@ import { SignupFormComponent } from './signup-form/signup-form.component';
 import { UserAuthContainerComponent } from './user-auth-container/user-auth-container.component';
 import { ErrorNotFoundComponent } from './error-not-found/error-not-found.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { LoggedInModule } from './logged-in/logged-in.module';
 
 @NgModule({
   declarations: [AppComponent, HomepageComponent, LoginFormComponent, SignupFormComponent, UserAuthContainerComponent, ErrorNotFoundComponent],
