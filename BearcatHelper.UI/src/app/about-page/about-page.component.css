@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    color: white;
+    background-image:url("https://mailuc-my.sharepoint.com/:i:/g/personal/bealshm_mail_uc_edu/Ebc1P6cGEfBKgXKFizBY9GABD92uB6cOq6_w-GUl_5XKiQ?e=Rooo6t");
+}
+
+.mainheading {
+  font-size: 2vw;
+  color: black;
+  line-height: 2em;
+}
+
+.minorheading {
+  color: black;
+  font-size: 1.5vw;
+  font-weight: 600;
+}
