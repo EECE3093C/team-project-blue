@@ -119,3 +119,12 @@ input {
 .link:hover {
   cursor: pointer;
 }
+
+.backbtn{
+  transform: scale(2);
+  margin-left: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}

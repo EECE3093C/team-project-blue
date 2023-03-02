@@ -7,4 +7,15 @@ import { Component } from '@angular/core';
 })
 export class UserAuthContainerComponent {
 
+  loginDisplay = true;
+
+  constructor() {}
+
+  ngOnInit(): void {
+  }
+
+  signupEvent(event: any) {
+    this.loginDisplay = event;
+  }
+
 }
