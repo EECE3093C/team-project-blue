@@ -22,9 +22,15 @@ body {
   height: 100vh;
   background-color: gray;
   width: 60%;
-  background-image: url("https://img.freepik.com/free-vector/question-mark-pattern_1319-109.jpg");
+  background-image: url("");
   background-position: center;
   background-size: cover;
   -webkit-box-shadow: 6px 2px 22px 9px rgba(0, 0, 0, 0.74);
   box-shadow: 6px 2px 22px 9px rgba(0, 0, 0, 0.74);
+}
+
+.email-txtbox {
+ color: white;
+ font-size: 2vw;
+ font-weight: 600;
 }
