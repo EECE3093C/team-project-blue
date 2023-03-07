@@ -6,12 +6,21 @@ body {
 .questions {
     font-size: 35px;
     position: relative;
-    left: 50px; 
+    left: 55px; 
     top:70px;
+}
+
+.get-in-touch {
+    font-size: 35px;
+    position: relative;
+    left: 10px; 
+    top: 70px;
 }
 
 .bearcat-logo {
     position: relative;
+    left: 165px; 
+    top: 60px;
 }
 
 .fullcontainer {
@@ -31,17 +40,49 @@ body {
 .rightpanel {
   float: right;
   height: 100vh;
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fquestion-mark-pattern&psig=AOvVaw2h1itJXni5QeOg0ETPgD8w&ust=1678238355548000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjk85rTyP0CFQAAAAAdAAAAABAR");
   background-color: gray;
   width: 60%;
-  /*background-image: url("https://pbs.twimg.com/profile_images/1161539125981392896/6Ybr3mdG_400x400.jpg");?*/
   background-position: center;
   background-size: cover;
   -webkit-box-shadow: 6px 2px 22px 9px rgba(0, 0, 0, 0.74);
   box-shadow: 6px 2px 22px 9px rgba(0, 0, 0, 0.74);
+
 }
 
 .email-txtbox {
+ position: relative;
  color: white;
- font-size: 2vw;
- font-weight: 600;
+ font-size: 30px;
+ font-weight: 50px;
+ right: -200px; 
+ top: 200px;
+
 }
+
+.name-txtbox{
+ position: relative;
+ color: white;
+ font-size: 30px;
+ font-weight: 50px;
+ right: -200px; 
+ top: 220px;
+
+}
+
+.how-to-help-txtbox{
+    position: relative;
+    color: white;
+    font-size: 30px;
+    font-weight: 50px;
+    right: -200px; 
+    top: 240px;
+}
+.submit-questions{
+    position: relative;
+    right: -335px; 
+    top: 240px;
+
+
+}
+
