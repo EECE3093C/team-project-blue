@@ -1,0 +1,24 @@
+<a href=""><mat-icon class="backbtn"> arrow_circle_left</mat-icon></a>
+<div style="width: 500px" class="centercontent">
+
+  <app-login-form
+  (formEmit)="signupEvent($event)"
+  *ngIf="loginDisplay == true"
+  >
+  </app-login-form>
+
+  <app-signup-form
+  (formEmit)="signupEvent($event)"
+  *ngIf="loginDisplay == false"
+  >
+  </app-signup-form>
+  
+  
+</div>
+
+<img
+  draggable="false"
+  class="cornerimage"
+  height="350px"
+  src="../../assets/girl_studying.png"
+/>
