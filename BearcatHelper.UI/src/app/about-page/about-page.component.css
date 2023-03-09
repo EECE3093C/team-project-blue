@@ -1,17 +1,32 @@
 body {
     background-color: white;
     color: white;
-    background-image:url("https://mailuc-my.sharepoint.com/:i:/g/personal/bealshm_mail_uc_edu/Ebc1P6cGEfBKgXKFizBY9GABD92uB6cOq6_w-GUl_5XKiQ?e=Rooo6t");
+    overflow: hidden;
 }
 
 .mainheading {
   font-size: 2vw;
   color: black;
   line-height: 2em;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 
 .minorheading {
   color: black;
   font-size: 1.5vw;
-  font-weight: 600;
+  font-weight: 450;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.book-logo {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-right: 100px;
+  margin-left: 100px;
 }
