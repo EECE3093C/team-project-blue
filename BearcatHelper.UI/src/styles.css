@@ -47,6 +47,7 @@ body {
 }
 
 .btn2 {
+  text-decoration: none;
   background-color: #000;
   border: 1px solid #000;
   border-radius: 4px;

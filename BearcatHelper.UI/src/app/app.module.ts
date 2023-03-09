@@ -11,9 +11,10 @@ import { UserAuthContainerComponent } from './user-auth-container/user-auth-cont
 import { ErrorNotFoundComponent } from './error-not-found/error-not-found.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { LoggedInModule } from './logged-in/logged-in.module';
+import { AboutPageComponent } from './about-page/about-page.component';
 
 @NgModule({
-  declarations: [AppComponent, HomepageComponent, LoginFormComponent, SignupFormComponent, UserAuthContainerComponent, ErrorNotFoundComponent],
+  declarations: [AppComponent, HomepageComponent, LoginFormComponent, SignupFormComponent, UserAuthContainerComponent, ErrorNotFoundComponent, AboutPageComponent],
   imports: [BrowserModule, AppRoutingModule, MatIconModule, MatIconModule, BrowserAnimationsModule],
   providers: [],
   bootstrap: [AppComponent],

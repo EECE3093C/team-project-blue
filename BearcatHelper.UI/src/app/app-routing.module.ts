@@ -1,6 +1,7 @@
 import { UserAuthContainerComponent } from './user-auth-container/user-auth-container.component';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { AboutPageComponent } from './about-page/about-page.component';
 import { HomepageComponent } from './homepage/homepage.component';
 import { LoginFormComponent } from './login-form/login-form.component';
 import { ErrorNotFoundComponent } from './error-not-found/error-not-found.component';
@@ -19,12 +20,18 @@ const routes: Routes = [
     title: 'Auth | BearcatHelper',
   },
   {
+    path: 'about',
+    component: AboutPageComponent,
+    title: 'About | BearcatHelper',
+  },
+  {
     path: 'menu',
     component: AppLoginComponent,
     children:[
       {path: '', component: MenuComponent, title: 'Menu | BearcatHelper',}
     ]
   },
+  { path: 'about', component: AboutPageComponent, title: 'About | BearcatHelper'},
   // This is the 404 error page and should always remain as the last entry.
   {
     path: '**',
