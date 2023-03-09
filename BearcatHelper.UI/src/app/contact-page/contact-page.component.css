@@ -40,7 +40,7 @@ body {
 .rightpanel {
   float: right;
   height: 100vh;
-  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fquestion-mark-pattern&psig=AOvVaw2h1itJXni5QeOg0ETPgD8w&ust=1678238355548000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjk85rTyP0CFQAAAAAdAAAAABAR");
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fstock-illustration-abstract-background-vector-organic-irregular-lines-dots-pattern-black-white-chaotic-design-image88345481&psig=AOvVaw0iDgSIRnxXbAiO-qymaocO&ust=1678471607932000&source=images&cd=vfe&ved=0CA8QjRxqGAoTCOiRnJK4z_0CFQAAAAAdAAAAABDlAQ");
   background-color: gray;
   width: 60%;
   background-position: center;
@@ -82,7 +82,5 @@ body {
     position: relative;
     right: -335px; 
     top: 240px;
-
-
 }
 
